@@ -1,6 +1,6 @@
-![](/images/ahlsbanner.png)
+![](/images/pharma-cryo-logistics-fc.png)
 
-# A-HLS [Accelerator] Documentation
+# A-HLS Pharma Cryo Logistics Integration FlexCard Documentation
 
 ## Overview
 

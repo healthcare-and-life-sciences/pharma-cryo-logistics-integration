@@ -66,21 +66,19 @@ This accelerator provides the necessary API/Schema defintion to quickly integrat
 
 ### Post-Install Configuration Steps:
 
-1. **[IF YOUR DATAPACK HAS FLEXCARDS - INCLUDE THE FOLLOWING STEPS]**
-
-2. Click on **App Launcher** → Search for “FlexCards”
+1. Click on **App Launcher** → Search for “FlexCards”
 
      1. Navigate to the recently installed FlexCard in the list view
      2. Open the FlexCard
      3. Click **Activate** and select the appropriate Publish Options
      4. For more information regarding activating FlexCards, please see this article: https://help.salesforce.com/s/articleView?id=sf.os_activateconfigureand_publish_flexcards_24744.htm&type=5
 
-3. Add the installed FlexCard to the lightning page layout of your choosing.
+2. Add the installed FlexCard to the lightning page layout of your choosing.
 
-4.   1. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
+3. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
 
-     2.   1. https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html
-          2. https://docs.vlocity.com/en/Add-a-FlexCard-to-an-Experience-Page.html
+     1. https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html
+     2. https://docs.vlocity.com/en/Add-a-FlexCard-to-an-Experience-Page.html
 
 ---
 

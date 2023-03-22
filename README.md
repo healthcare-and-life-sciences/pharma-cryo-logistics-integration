@@ -31,8 +31,8 @@ This accelerator provides the necessary API/Schema defintion to quickly integrat
 
 ### Primary User Persona:
 
--    Add
--    Add
+-    Care Coordinator
+-    MFG and Logistics Coordinator
 
 ---
 

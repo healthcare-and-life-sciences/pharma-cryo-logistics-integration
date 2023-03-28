@@ -62,7 +62,7 @@ This accelerator provides the necessary API/Schema defintion to quickly integrat
      1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio FlexCards**' and click on it.
      2. Click on '**Import**' on the right side.
      3. Select '**Upload Files**' - When the window opens, select the json file that you downloaded and stored on your machine. Click '**Open**' then click '**Next**' 3 times.
-     4. When prompted to Activate the OmniScript, choose **Activate Later**.
+     4. When prompted to Activate the FlexCard, choose **Activate Later**.
 
 ### Post-Install Configuration Steps:
 

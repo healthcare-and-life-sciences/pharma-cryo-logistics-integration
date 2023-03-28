@@ -55,18 +55,18 @@ This accelerator provides the necessary API/Schema defintion to quickly integrat
 
 1. Follow the download steps presented on the Accelerate HLS website for this Accelerator.
 
-     1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **[https://github.com/healthcare-and-life-sciences/pharma-cryo-logistics-integration]**
+     1. Alternatively, you may download the json file in the following GitHub repository: **[https://github.com/healthcare-and-life-sciences/pharma-cryo-logistics-integration]**
 
 2. Then, complete the following steps to import them into your Salesforce org.
 
-     1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio DataPacks**' and click on it.
-     2. Click on '**Installed**' and on the right side click on '**Import from**'.
-     3. Select '**From File**' - When the window opens, select the Data Pack file that you downloaded and stored on your machine. Click '**Install**'.
-     4. When prompted to Activate the OmniScript, choose **Not Now**.
+     1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio FlexCards**' and click on it.
+     2. Click on '**Import**' on the right side.
+     3. Select '**Upload Files**' - When the window opens, select the json file that you downloaded and stored on your machine. Click '**Open**' then click '**Next**' 3 times.
+     4. When prompted to Activate the OmniScript, choose **Activate Later**.
 
 ### Post-Install Configuration Steps:
 
-1. Click on **App Launcher** → Search for “FlexCards”
+1. If you aren't already on the FlexCards tab, click on **App Launcher** → Search for “FlexCards”
 
      1. Navigate to the recently installed FlexCard in the list view
      2. Open the FlexCard

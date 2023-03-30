@@ -77,8 +77,8 @@ This accelerator provides the necessary API/Schema defintion to quickly integrat
 
 3. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
 
-     1. https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html
-     2. https://docs.vlocity.com/en/Add-a-FlexCard-to-an-Experience-Page.html
+     1. https://help.salesforce.com/s/articleView?id=sf.os_add_a_flexcard_to_a_lightning_page.htm&type=5
+     2. https://help.salesforce.com/s/articleView?id=sf.os_add_a_flexcard_to_an_experience_page.htm&type=5
 
 ---
 

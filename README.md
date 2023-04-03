@@ -14,7 +14,7 @@ This accelerator provides the necessary API/Schema defintion to quickly integrat
 
 ## Business Value and Benefits
 
--    *Improving compliance*: Integrating with QuickSTAT and WorldCourier can help sponsor manufacturers comply with regulatory requirements for the shipping and handling of cryo, such as Good Distribution Practice (GDP) and Good Manufacturing Practice (GMP) guidelines. This can help to avoid costly regulatory issues and recalls.
+-    *Improving compliance*: Integrating with QuickSTAT ("Quick") and WorldCourier ("World") can help sponsor manufacturers comply with regulatory requirements for the shipping and handling of cryo, such as Good Distribution Practice (GDP) and Good Manufacturing Practice (GMP) guidelines. This can help to avoid costly regulatory issues and recalls.
 -    *Enhancing patient safety*: Integrating with Quick and World can help sponsor pharma to ensure that cell and gene therapies are delivered to the right patient at the right time and place, minimizing the risk of adverse events or incorrect administration.
 -    *Improving customer experience*: Integrating with Quick and World can provide sponsor manufacturers with real-time tracking information and updates on the status of their shipment, improving the overall customer experience by increasing transparency and reducing uncertainty.
 -    *Increased efficiency*: Integrating with Quick and World can help sponsor manufacturers reduce the time and cost associated with manual data entry, as well as minimizing the risk of errors that can cause delays in the shipment process.
